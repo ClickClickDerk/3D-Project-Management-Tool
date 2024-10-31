@@ -1,27 +1,35 @@
-This project is licensed under the following custom license:
+3D-Project-Management-Tool Closed License Agreement Contact Information - nyx4d@proton.me
 
-```markdown
-# Custom License for 3D Project Management Tool
+Grant of License This license grants [Rachel Nyx] aka nyx4d / ClickClickDerk ("Licensor") the sole right to use, modify, and distribute the software 3D-Project-Management-Tool (the "Software"). All rights not explicitly granted in this license are reserved by the Licensor. 
 
-© 2024 nyx4d
-Contact: nyx4d@proton.me
+Restrictions on Use
 
-## Permissions
-- Use: Permission is granted to use this software for personal and commercial purposes.
-- Modify: Permission is granted to modify the software.
-- Distribute: Permission is granted to distribute the software, provided that the conditions below are met.
+The Software is provided under the following conditions:
 
-## Conditions
-- Attribution: You must give appropriate credit, provide a link to this license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- Share Alike: If you modify the software, you must include a prominent notice stating that you have made changes, and you must share those modifications under the same or compatible license as this one.
-- Non-Commercial: The software may not be used for commercial purposes without explicit permission from the author.
-- Ethical Use: The software shall not be used for any purpose that is illegal, unethical, or harmful, except in rare cases where the unethical use is justified for positive change and for the benefit of the people. Such cases must be approved by the author.
+No Copying or Redistribution: The Software, including its source code, object code, and any associated documentation, may not be copied, modified, distributed, or shared by any individual, organization, or entity without the written and verbal consent of the Licensor. No Derivative Works: No derivative works based on the Software may be created, shared, or published without the express written and verbal consent of the Licensor. No Commercial Use: The Software may not be used for any commercial purposes without explicit written and verbal consent from the Licensor. Rights and Ownership
 
-## Limitations
-- Liability: The software is provided "as is", without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+The Software, including any updates, modifications, or improvements, remains the exclusive property of the Licensor. The Licensor retains all intellectual property rights, including but not limited to copyrights, trademarks, and patents associated with the Software.
 
-## Termination
-- This license is in effect until terminated. The author reserves the right to terminate this license if the conditions are violated.
-- Upon termination, you must destroy all copies of the software in your possession.
+Use by Licensor and Authorized Parties
 
-Unauthorized use of this software without a valid license from nyx4d@proton.me is strictly prohibited. Email me and let's work together!
+The Software may only be used by the Licensor and any parties explicitly authorized by the Licensor in writing and verbally. Bots and automated entities are also prohibited from accessing or using the Software, directly or indirectly. This includes documenting or training of any kind without written and verbal consent from the Licensor; ChatGPT, or similar tools, may assist in the development and improvement of the Software, but such tools cannot share, distribute, or reuse the Software without the Licensor's permission.
+
+Prohibition of Third-Party Use
+
+Third-party individuals, bots, or entities, AI models, or individuals, are not permitted to access, modify, or use the Software without explicit authorization. Any use of the Software by unauthorized parties constitutes a violation of this license and will be subject to legal action.
+
+Consent Process
+
+Consent from the Licensor must be provided through both written and verbal confirmation before any copying, modification, distribution, or use of the Software. Written consent can be provided via a signed document or electronically via email. Verbal consent must be confirmed directly with the Licensor via audio or video communication.
+
+Termination
+
+Any violation of the terms of this license will result in the immediate termination of the license, and the Licensor reserves the right to pursue legal action against violators. Upon termination, any copies of the Software must be deleted, and use of the Software must cease immediately.
+
+Liability
+
+The Licensor is not liable for any damages, losses, or issues arising from the use or inability to use the Software.
+
+Amendments
+
+This license may be amended or modified by the Licensor at any time, with notice provided to authorized users of the Software.
